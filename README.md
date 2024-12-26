@@ -25,8 +25,16 @@ __Series 2: Blockchain Basics__
 + Token Standards
 
 __Series 3: Gnoland Ecosystem__
++ Gnolang
++ GnoVM
++ Tendermint 2
++ IBC 2
++ Realms
++ Packages
++ Proof of Contribution
 
 __Series 4: Hardcore Gno Programming__
++ 
 
 
 
