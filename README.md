@@ -7,6 +7,10 @@ __Series 1: Programming Fundamentals__
 
 __Series 2: Blockchain Basics__
 
+__Series 3: Gnoland Ecosystem__
+
+__Series 4: Hardcore Gno Programming__
+
 
 
 __Note:__ This project is going to be completely open source and free to use without any copyright issues.
