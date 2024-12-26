@@ -5,6 +5,8 @@ Hello __Gnomes!__ Welcome to __Gnodium__, a developer oriented project which aim
 # Roadmap
 __Series 1: Programming Fundamentals__
 
+__Series 2: Blockchain Basics__
+
 
 
 __Note:__ This project is going to be completely open source and free to use without any copyright issues.
