@@ -34,7 +34,11 @@ __Series 3: Gnoland Ecosystem__
 + Proof of Contribution
 
 __Series 4: Hardcore Gno Programming__
-+ 
++ Local Development Setup
++ Writing a Realm
++ Testing a Realm
++ Deploying a Realm
++ Building Projects
 
 
 
