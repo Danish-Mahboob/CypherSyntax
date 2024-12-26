@@ -12,6 +12,7 @@ __Series 1: Programming Fundamentals__
 + Functional Programming
 + Debugging and Testing
 + Practice and Projects
+
 __Series 2: Blockchain Basics__
 + Distributed Ledger Technology
 + Cryptography
