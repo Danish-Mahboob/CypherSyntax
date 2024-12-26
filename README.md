@@ -42,7 +42,7 @@ __Series 4: Hardcore Gno Programming__
 
 
 
-__Note:__ This project is going to be completely open source and free to use without any copyright issues.
+__Note:__ This project is going to be completely open source and free to use without any copyright issues. Also, if you have any questions, suggestions, or want to contribute please reach out to us at gnodium@gmail.com
 
 
 
