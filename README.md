@@ -49,6 +49,6 @@ __Note:__ This project is going to be completely open source and free to use wit
 
 
 # Connect
-Blog | Community | Social
+__+ Blog__
 
 
