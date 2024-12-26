@@ -50,5 +50,7 @@ __Note:__ This project is going to be completely open source and free to use wit
 
 # Connect
 + __Blog__
++ __Social__
++ __Community__
 
 
