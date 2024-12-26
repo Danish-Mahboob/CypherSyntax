@@ -5,8 +5,23 @@ Hello __Gnomes!__ Welcome to __Gnodium__, a developer oriented project which aim
 # Roadmap
 __Series 1: Programming Fundamentals__
 + Introduction to Programming
-
++ Programming Languages 
++ Data Structures
++ Algorithms
++ Object Oriented Programming
++ Functional Programming
++ Debugging and Testing
++ Practice and Projects
 __Series 2: Blockchain Basics__
++ Distributed Ledger Technology
++ Cryptography
++ Consensus Algorithms
++ Peer-to-Peer Networking
++ Blocks and Transactions
++ Smart Contracts
++ Virtual Machine
++ Decentralised Applications
++ Token Standards
 
 __Series 3: Gnoland Ecosystem__
 
