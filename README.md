@@ -49,7 +49,7 @@ __Note:__ This project is going to be completely open source and free to use wit
 
 
 # Connect
-+ __Blog__
++ __[Blog](https://danishmahboob.hashnode.dev/)__
 
 + __Social__
 
