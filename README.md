@@ -4,7 +4,7 @@ Hello Gnomes! Welcome to Gnodium, a developer oriented project which aims to pro
 
 # Roadmap
 
-Note: This project is going to be completely open source and free to use without any copyright issues.
+*Note*: This project is going to be completely open source and free to use without any copyright issues.
 
 
 
