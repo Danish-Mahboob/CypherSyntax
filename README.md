@@ -4,7 +4,7 @@ Hello __Gnomes!__ Welcome to __Gnodium__, a developer oriented project which aim
 
 # Roadmap
 
-__Note:__ This project is going to be completely open source and free to use without any copyright issues.
+_Note:_ This project is going to be completely open source and free to use without any copyright issues.
 
 
 
