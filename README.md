@@ -53,6 +53,6 @@ __Note:__ This project is going to be completely open source and free to use wit
 
 + __Social__
 
-+ __Community__
++ __[Community](https://t.me/gnodium)__
 
 
