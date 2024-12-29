@@ -4,6 +4,7 @@ Hello __Gnomes!__ Welcome to __Gnodium__, a developer oriented project which aim
 
 # Roadmap
 The entire Gnodium project will be divided into 4 different series
+
 __Series 1: Programming Fundamentals__
 + Introduction to Programming
 + Programming Languages 
