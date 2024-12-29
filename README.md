@@ -3,6 +3,7 @@
 Hello __Gnomes!__ Welcome to __Gnodium__, a developer oriented project which aims to provide all the technical resources and information anyone would need to become a __Gno Developer__. From the fundamentals of programming to the basics of Blockchain, we will cover everything and to make it easily discoverable and accessible to passionate people we will provide the content in the form of multiple well structured series of comprehensive articles on multiple blogging platforms such as __Hashnode__ and __Medium__, as these articles will attract developers interested in Gnoland and over time, we aim to build a vibrant community of people who are eager to build cool stuff on the __[Gnoland Blockchain](https://gno.land/)__.
 
 # Roadmap
+The entire Gnodium project will be divided into 4 different series
 __Series 1: Programming Fundamentals__
 + Introduction to Programming
 + Programming Languages 
