@@ -51,7 +51,7 @@ __Note:__ This project is going to be completely open source and free to use wit
 
 
 # Connect
-+ __[Articles](https://medium.com/@cyphersyntax)__
++ __[Blog](https://medium.com/@cyphersyntax)__
 
 + __[Community](https://https://t.me/cyphersyntax)__
 
