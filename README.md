@@ -51,9 +51,7 @@ __Note:__ This project is going to be completely open source and free to use wit
 
 
 # Connect
-+ __[Blog](https://danishmahboob.hashnode.dev/)__
-
-+ __[Social](https://mastodon.social/@Gnodium)__
++ __[Articles](https://medium.com/@cyphersyntax)__
 
 + __[Community](https://t.me/gnodium)__
 
