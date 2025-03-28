@@ -51,8 +51,8 @@ __Note:__ If you have any questions, suggestions, or want to contribute then ple
 
 
 # Connect
-+ __[Blog](https://medium.com/@cyphersyntax)__ (Medium)
++ __[Blog](https://medium.com/@cyphersyntax)__
 
-+ __[Community](https://https://t.me/cyphersyntax)__ (Telegram)
++ __[Community](https://https://t.me/cyphersyntax)__
 
 
