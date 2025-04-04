@@ -55,5 +55,6 @@ __Note:__ If you have any questions, suggestions, or want to contribute then ple
 
 + __[Community](https://https://t.me/cyphersyntax)__
 
-+__[Email](cyphersyntax@yahoo.com)__
++
+__[Email](cyphersyntax@yahoo.com)__
 
