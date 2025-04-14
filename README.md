@@ -9,7 +9,7 @@ Building on this foundation, the ultimate goal of this project is to build a rob
 # Blueprint
 Here's a brief overview of the curriculum we will be following to build the CypherSyntax developer resource hub. The idea is to take a step-by-step approach—starting with simple concepts and gradually moving toward more advanced topics:-
 
-__MODULE 1: PROGRAMMING FUNDAMENTALS__ (8 weeks)
+__MODULE 1: PROGRAMMING FUNDAMENTALS__    (8 weeks)
 + Introduction to Programming
 + Programming Languages 
 + Data Structures
@@ -19,7 +19,7 @@ __MODULE 1: PROGRAMMING FUNDAMENTALS__ (8 weeks)
 + Debugging and Testing
 + Practice and Projects
 
-__MODULE 2: BLOCKCHAIN CONCEPTS__ (6 weeks)
+__MODULE 2: BLOCKCHAIN CONCEPTS__    (6 weeks)
 + Distributed Ledger Technology
 + Cryptography
 + Consensus Algorithms
@@ -30,7 +30,7 @@ __MODULE 2: BLOCKCHAIN CONCEPTS__ (6 weeks)
 + Decentralised Applications
 + Token Standards
 
-__MODULE 3: GOLANG & GNOLANG__ (8 weeks)
+__MODULE 3: GOLANG & GNOLANG__    (8 weeks)
 + Gnolang
 + GnoVM
 + Tendermint 2
@@ -39,14 +39,14 @@ __MODULE 3: GOLANG & GNOLANG__ (8 weeks)
 + Packages
 + Proof of Contribution
 
-__MODULE 4: GNOLAND COMPONENTS__ (6 weeks)
+__MODULE 4: GNOLAND COMPONENTS__    (6 weeks)
 + Local Development Setup
 + Writing a Realm
 + Testing a Realm
 + Deploying a Realm
 + Building Projects
 
-__MODULE 5: ONCHAIN DEVELOPMENT__ (15 weeks)
+__MODULE 5: ONCHAIN DEVELOPMENT__    (15 weeks)
 
 
 >__Note:__ If you have any questions, suggestions, or want to contribute then please reach out at: cyphersyntax@yahoo.com
