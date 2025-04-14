@@ -6,8 +6,8 @@ Building on this foundation, the ultimate goal of this project is to build a rob
 
 
 
-# Roadmap
-__CypherSyntax__ will be divided into 4 different series:-
+# Blueprint
+Here's a brief overview of the curriculum we will be following to build the CypherSyntax developer resource hub. The idea is to take a step-by-step approach—starting with simple concepts and gradually moving toward more advanced topics, all centered around the Gnoland Blockchain.
 
 __Series 1: Programming Fundamentals__
 + Introduction to Programming
