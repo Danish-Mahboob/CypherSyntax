@@ -29,8 +29,8 @@ __MODULE 2: BLOCKCHAIN CONCEPTS__    (8 weeks)
 + Chapter 5: Blocks and Transactions
 + Chapter 6: Smart Contracts
 + Chapter 7: Virtual Machine
-+ Chapter 8: Decentralised Applications
-+ Chapter 9: Token Standards
++ Chapter 8: Token Standards
++ Chapter 9: 
 + Chapter 10: 
 
 __MODULE 3: GOLANG & GNOLANG__    (8 weeks)
