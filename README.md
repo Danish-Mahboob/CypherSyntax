@@ -10,14 +10,14 @@ Building on this foundation, the ultimate goal of this project is to build a rob
 Here's a brief overview of the curriculum we will be following to build the CypherSyntax developer resource hub. The idea is to take a step-by-step approach—starting with simple concepts and gradually moving toward more advanced topics:-
 
 __MODULE 1: PROGRAMMING FUNDAMENTALS__    (8 weeks)
-+ Chapter 1: Introduction to Programming
-+ Chapter 2: Programming Languages 
-+ Chapter 3: Data Structures
-+ Chapter 4: Algorithms
-+ Chapter 5: Object Oriented Programming
-+ Chapter 6: Functional Programming
-+ Chapter 7: Debugging and Testing
-+ Chapter 8: Practice and Projects
++ Chapter 1: Computational Thinking
++ Chapter 2: HTML 
++ Chapter 3: CSS
++ Chapter 4: JavaScript
++ Chapter 5: Data Structures
++ Chapter 6: Algorithms
++ Chapter 7: 
++ Chapter 8: 
 + Chapter 9: 
 + Chapter 10: 
 
