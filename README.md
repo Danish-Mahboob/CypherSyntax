@@ -9,7 +9,7 @@ Building on this foundation, the ultimate goal of this project is to build a rob
 # Blueprint
 Here's a brief overview of the curriculum we will be following to build the CypherSyntax developer resource hub. The idea is to take a step-by-step approach—starting with simple concepts and gradually moving toward more advanced topics, all centered around the Gnoland Blockchain.
 
-__Series 1: Programming Fundamentals__
+__MODULE 1: PROGRAMMING FUNDAMENTALS__
 + Introduction to Programming
 + Programming Languages 
 + Data Structures
@@ -19,7 +19,7 @@ __Series 1: Programming Fundamentals__
 + Debugging and Testing
 + Practice and Projects
 
-__Series 2: Blockchain Basics__
+__MODULE 2: BLOCKCHAIN CONCEPTS__
 + Distributed Ledger Technology
 + Cryptography
 + Consensus Algorithms
@@ -30,7 +30,7 @@ __Series 2: Blockchain Basics__
 + Decentralised Applications
 + Token Standards
 
-__Series 3: Gnoland Ecosystem__
+__MODULE 3: GOLANG & GNOLANG__
 + Gnolang
 + GnoVM
 + Tendermint 2
@@ -39,13 +39,14 @@ __Series 3: Gnoland Ecosystem__
 + Packages
 + Proof of Contribution
 
-__Series 4: Hardcore Gno Programming__
+__MODULE 4: GNOLAND COMPONENTS__
 + Local Development Setup
 + Writing a Realm
 + Testing a Realm
 + Deploying a Realm
 + Building Projects
 
+__MODULE 5: 
 
 
 __Note:__ If you have any questions, suggestions, or want to contribute then please reach out at: cyphersyntax@yahoo.com.
