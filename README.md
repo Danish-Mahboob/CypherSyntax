@@ -57,7 +57,7 @@ __MODULE 4: GNOLAND COMPONENTS__    (8 weeks)
 + Chapter 9:
 + Chapter 10:
 
-__MODULE 5: ONCHAIN DEVELOPMENT__    (16 weeks)
+__MODULE 5: ONCHAIN DEVELOPMENT__    (20 weeks)
 + Chapter 1: Local Development Setup
 + Chapter 2: Writing a Realm
 + Chapter 3: Testing a Realm
