@@ -10,49 +10,66 @@ Building on this foundation, the ultimate goal of this project is to build a rob
 Here's a brief overview of the curriculum we will be following to build the CypherSyntax developer resource hub. The idea is to take a step-by-step approach—starting with simple concepts and gradually moving toward more advanced topics:-
 
 __MODULE 1: PROGRAMMING FUNDAMENTALS__    (8 weeks)
-+ Introduction to Programming
-+ Programming Languages 
-+ Data Structures
-+ Algorithms
-+ Object Oriented Programming
-+ Functional Programming
-+ Debugging and Testing
-+ Practice and Projects
++ Chapter 1: Introduction to Programming
++ Chapter 2: Programming Languages 
++ Chapter 3: Data Structures
++ Chapter 4: Algorithms
++ Chapter 5: Object Oriented Programming
++ Chapter 6: Functional Programming
++ Chapter 7: Debugging and Testing
++ Chapter 8: Practice and Projects
++ Chapter 9: 
++ Chapter 10: 
 
 __MODULE 2: BLOCKCHAIN CONCEPTS__    (6 weeks)
-+ Distributed Ledger Technology
-+ Cryptography
-+ Consensus Algorithms
-+ Peer-to-Peer Networking
-+ Blocks and Transactions
-+ Smart Contracts
-+ Virtual Machine
-+ Decentralised Applications
-+ Token Standards
++ Chapter 1: Distributed Ledger Technology
++ Chapter 2: Cryptography
++ Chapter 3: Consensus Algorithms
++ Chapter 4: Peer-to-Peer Networking
++ Chapter 5: Blocks and Transactions
++ Chapter 6: Smart Contracts
++ Chapter 7: Virtual Machine
++ Chapter 8: Decentralised Applications
++ Chapter 9: Token Standards
++ Chapter 10: 
 
 __MODULE 3: GOLANG & GNOLANG__    (8 weeks)
-+ Gnolang
-+ GnoVM
-+ Tendermint 2
-+ IBC 2
-+ Realms
-+ Packages
-+ Proof of Contribution
++ Chapter 1: 
++ Chapter 2:
++ Chapter 3:
++ Chapter 4:
++ Chapter 5:
++ Chapter 6:
++ Chapter 7:
++ Chapter 8:
++ Chapter 9: 
++ Chapter 10:
 
 __MODULE 4: GNOLAND COMPONENTS__    (6 weeks)
-+ Local Development Setup
-+ Writing a Realm
-+ Testing a Realm
-+ Deploying a Realm
-+ Building Projects
++ Chapter 1:
++ Chapter 2:
++ Chapter 3:
++ Chapter 4:
++ Chapter 5:
++ Chapter 6:
++ Chapter 7:
++ Chapter 8:
++ Chapter 9:
++ Chapter 10:
 
 __MODULE 5: ONCHAIN DEVELOPMENT__    (15 weeks)
-
++ Chapter 1: Local Development Setup
++ Chapter 2: Writing a Realm
++ Chapter 3: Testing a Realm
++ Chapter 4: Deploying a Realm
++ Chapter 5: Building Projects
++ Chapter 6:
++ Chapter 7:
++ Chapter 8:
++ Chapter 9:
++ Chapter 10:
 
 >__Note:__ If you have any questions, suggestions, or want to contribute then please reach out at: cyphersyntax@yahoo.com
-
-
-
 
 
 # Connect
