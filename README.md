@@ -7,7 +7,7 @@ Building on this foundation, the ultimate goal of this project is to build a rob
 
 
 # Blueprint
-Here's a brief overview of the curriculum we will be following to build the CypherSyntax developer resource hub. The idea is to take a step-by-step approach—starting with simple concepts and gradually moving toward more advanced topics, all centered around the Gnoland Blockchain:-
+Here's a brief overview of the curriculum we will be following to build the CypherSyntax developer resource hub. The idea is to take a step-by-step approach—starting with simple concepts and gradually moving toward more advanced topics:-
 
 __MODULE 1: PROGRAMMING FUNDAMENTALS__
 + Introduction to Programming
