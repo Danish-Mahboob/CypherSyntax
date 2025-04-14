@@ -49,8 +49,7 @@ __MODULE 4: GNOLAND COMPONENTS__
 __MODULE 5: ONCHAIN DEVELOPMENT__
 
 
-
-{__Note:__ If you have any questions, suggestions, or want to contribute then please reach out at: cyphersyntax@yahoo.com}
+__Note:__ If you have any questions, suggestions, or want to contribute then please reach out at: cyphersyntax@yahoo.com
 
 
 
