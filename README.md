@@ -21,7 +21,7 @@ __MODULE 1: PROGRAMMING FUNDAMENTALS__    (8 weeks)
 + Chapter 9: 
 + Chapter 10: 
 
-__MODULE 2: BLOCKCHAIN CONCEPTS__    (6 weeks)
+__MODULE 2: BLOCKCHAIN CONCEPTS__    (8 weeks)
 + Chapter 1: Distributed Ledger Technology
 + Chapter 2: Cryptography
 + Chapter 3: Consensus Algorithms
@@ -45,7 +45,7 @@ __MODULE 3: GOLANG & GNOLANG__    (8 weeks)
 + Chapter 9: 
 + Chapter 10:
 
-__MODULE 4: GNOLAND COMPONENTS__    (6 weeks)
+__MODULE 4: GNOLAND COMPONENTS__    (8 weeks)
 + Chapter 1:
 + Chapter 2:
 + Chapter 3:
