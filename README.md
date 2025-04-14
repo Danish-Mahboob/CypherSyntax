@@ -46,7 +46,7 @@ __MODULE 4: GNOLAND COMPONENTS__
 + Deploying a Realm
 + Building Projects
 
-__MODULE 5: REALMS DEVELOPMENT__
+__MODULE 5: ONCHAIN DEVELOPMENT__
 
 
 
