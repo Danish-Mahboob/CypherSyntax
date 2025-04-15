@@ -26,7 +26,7 @@ __MODULE 2: BLOCKCHAIN CONCEPTS__    (8 weeks)
 + Chapter 2: Distributed Ledger
 + Chapter 3: Cryptography
 + Chapter 4: Consensus Mechanism
-+ Chapter 5: Peer-to-Peer Networking
++ Chapter 5: Peer-to-Peer Network
 + Chapter 6: Blocks and Transactions
 + Chapter 7: Smart Contracts
 + Chapter 8: Virtual Machine
