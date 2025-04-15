@@ -52,7 +52,7 @@ __MODULE 4: GNOLAND COMPONENTS__    (8 weeks)
 + Chapter 4: Tendermint 2
 + Chapter 5: IBC 2
 + Chapter 6: Realms & Packages
-+ Chapter 7: 
++ Chapter 7: Gnoweb
 + Chapter 8:
 + Chapter 9:
 + Chapter 10:
