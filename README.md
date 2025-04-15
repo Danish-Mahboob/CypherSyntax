@@ -16,7 +16,7 @@ __MODULE 1: PROGRAMMING FUNDAMENTALS__    (8 weeks)
 + Chapter 4: JavaScript
 + Chapter 5: Data Structures
 + Chapter 6: Algorithms
-+ Chapter 7: 
++ Chapter 7: Version Control
 + Chapter 8: 
 + Chapter 9: 
 + Chapter 10: 
