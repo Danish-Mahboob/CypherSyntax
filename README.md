@@ -33,7 +33,7 @@ __MODULE 2: BLOCKCHAIN CONCEPTS__    (8 weeks)
 + Chapter 9: Token Standards
 + Chapter 10: Decentralized Applications
 
-__MODULE 3: GOLANG & GNOLANG__    (8 weeks)
+__MODULE 3: GOLANG__    (8 weeks)
 + Chapter 1: Packages
 + Chapter 2: Modules
 + Chapter 3: Variables & Constants
