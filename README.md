@@ -69,11 +69,11 @@ __MODULE 5: ONCHAIN DEVELOPMENT__    (20 weeks)
 + Chapter 9:
 + Chapter 10:
 
->__Note:__ If you have any questions, suggestions, or want to contribute then please reach out at: cyphersyntax@yahoo.com
+>__Note:__ Also if you have any questions, suggestions, or want to contribute then please open an issue or reach out at: cyphersyntax@yahoo.com
 
 
 # Connect
-+ __[Blog](https://medium.com/@cyphersyntax)__
++ __[Blog](https://medium.com/@cyphersyntax)__ (Medium)
 
-+ __[Community](https://https://t.me/cyphersyntax)__
++ __[Community](https://https://t.me/cyphersyntax)__ (Telegram)
 
