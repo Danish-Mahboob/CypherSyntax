@@ -22,15 +22,15 @@ __MODULE 1: PROGRAMMING FUNDAMENTALS__    (8 weeks)
 + Chapter 10: 
 
 __MODULE 2: BLOCKCHAIN CONCEPTS__    (8 weeks)
-+ Chapter 1: Distributed Ledger Technology
-+ Chapter 2: Cryptography
-+ Chapter 3: Consensus Algorithms
-+ Chapter 4: Peer-to-Peer Networking
-+ Chapter 5: Blocks and Transactions
-+ Chapter 6: Smart Contracts
-+ Chapter 7: Virtual Machine
-+ Chapter 8: Token Standards
-+ Chapter 9: 
++ Chapter 1: Nodes
++ Chapter 2: Distributed Ledger
++ Chapter 3: Cryptography
++ Chapter 4: Consensus Mechanism
++ Chapter 5: Peer-to-Peer Networking
++ Chapter 6: Blocks and Transactions
++ Chapter 7: Smart Contracts
++ Chapter 8: Virtual Machine
++ Chapter 9: Token Standards
 + Chapter 10: 
 
 __MODULE 3: GOLANG & GNOLANG__    (8 weeks)
