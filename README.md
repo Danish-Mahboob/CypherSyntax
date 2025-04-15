@@ -53,7 +53,7 @@ __MODULE 4: GNOLAND COMPONENTS__    (8 weeks)
 + Chapter 5: IBC 2
 + Chapter 6: Realms & Packages
 + Chapter 7: Gnoweb
-+ Chapter 8:
++ Chapter 8: GovDao
 + Chapter 9:
 + Chapter 10:
 
