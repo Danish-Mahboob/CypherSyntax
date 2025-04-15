@@ -51,11 +51,11 @@ __MODULE 4: GNOLAND COMPONENTS__    (8 weeks)
 + Chapter 3: GnoVM
 + Chapter 4: Tendermint 2
 + Chapter 5: IBC 2
-+ Chapter 6: Realms & Packages
-+ Chapter 7: Gnoweb
-+ Chapter 8: GovDao
-+ Chapter 9:
-+ Chapter 10:
++ Chapter 6: Realms 
++ Chapter 7: Packages
++ Chapter 8: Gnoweb
++ Chapter 9: Gno Studio
++ Chapter 10: GovDao
 
 __MODULE 5: ONCHAIN DEVELOPMENT__    (20 weeks)
 + Chapter 1: Local Development Setup
