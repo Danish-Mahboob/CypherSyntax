@@ -34,16 +34,16 @@ __MODULE 2: BLOCKCHAIN CONCEPTS__    (8 weeks)
 + Chapter 10: Decentralized Applications
 
 __MODULE 3: GOLANG & GNOLANG__    (8 weeks)
-+ Chapter 1: 
-+ Chapter 2:
-+ Chapter 3:
-+ Chapter 4:
-+ Chapter 5:
-+ Chapter 6:
-+ Chapter 7:
-+ Chapter 8:
-+ Chapter 9: 
-+ Chapter 10:
++ Chapter 1: Packages
++ Chapter 2: Modules
++ Chapter 3: Variables & Constants
++ Chapter 4: Functions
++ Chapter 5: Data Types
++ Chapter 6: Control Flow
++ Chapter 7: Concurrency 
++ Chapter 8: Interfaces
++ Chapter 9: Error Handling
++ Chapter 10: Testing & Benchmarking
 
 __MODULE 4: GNOLAND COMPONENTS__    (8 weeks)
 + Chapter 1: Proof of Contribution (PoC)
