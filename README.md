@@ -18,7 +18,7 @@ __MODULE 1: PROGRAMMING FUNDAMENTALS__    (8 weeks)
 + Chapter 6: Algorithms
 + Chapter 7: Version Control
 + Chapter 8: Modular Programming
-+ Chapter 9: 
++ Chapter 9: Object Oriented Programming (OOP)
 + Chapter 10: 
 
 __MODULE 2: BLOCKCHAIN CONCEPTS__    (8 weeks)
