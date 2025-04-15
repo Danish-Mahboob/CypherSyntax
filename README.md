@@ -47,12 +47,12 @@ __MODULE 3: GOLANG__    (8 weeks)
 
 __MODULE 4: GNOLAND COMPONENTS__    (8 weeks)
 + Chapter 1: Proof of Contribution (PoC)
-+ Chapter 2: GnoVM
-+ Chapter 3: Tendermint 2
-+ Chapter 4: IBC 2
-+ Chapter 5: Realms
-+ Chapter 6: Packages
-+ Chapter 7:
++ Chapter 2: Gnolang
++ Chapter 3: GnoVM
++ Chapter 4: Tendermint 2
++ Chapter 5: IBC 2
++ Chapter 6: Realms
++ Chapter 7: Packages
 + Chapter 8:
 + Chapter 9:
 + Chapter 10:
