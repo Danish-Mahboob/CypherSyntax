@@ -19,7 +19,7 @@ __MODULE 1: PROGRAMMING FUNDAMENTALS__    (8 weeks)
 + Chapter 7: Version Control
 + Chapter 8: Modular Programming
 + Chapter 9: Object Oriented Programming
-+ Chapter 10: 
++ Chapter 10: Database Management
 
 __MODULE 2: BLOCKCHAIN CONCEPTS__    (8 weeks)
 + Chapter 1: Nodes
