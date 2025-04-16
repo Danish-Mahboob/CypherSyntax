@@ -60,12 +60,12 @@ __MODULE 4: GNOLAND COMPONENTS__    (8 weeks)
 __MODULE 5: ONCHAIN DEVELOPMENT__    (20 weeks)
 + Chapter 1: Development Environment Setup
 + Chapter 2: Design Realm Architecture
-+ Chapter 3: Develop Realm
++ Chapter 3: Write Gno Code
 + Chapter 4: Unit & Integration Tests
 + Chapter 5: Testnet Deployment
-+ Chapter 6: Security Audit
-+ Chapter 7: 
-+ Chapter 8:
++ Chapter 6: Security Audits
++ Chapter 7: Build Decentralized Application
++ Chapter 8: 
 + Chapter 9:
 + Chapter 10:
 
