@@ -57,7 +57,7 @@ __MODULE 4: GNOLAND COMPONENTS__    (8 weeks)
 + Chapter 9: Gno Studio
 + Chapter 10: GovDao
 
-__MODULE 5: ONCHAIN DEVELOPMENT__    (20 weeks)
+__MODULE 5: ON-CHAIN DEVELOPMENT__    (20 weeks)
 + Chapter 1: Development Environment Setup
 + Chapter 2: Design Realm Architecture
 + Chapter 3: Write Gno Code
