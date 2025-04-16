@@ -66,7 +66,7 @@ __MODULE 5: ONCHAIN DEVELOPMENT__    (20 weeks)
 + Chapter 6: Security Audits
 + Chapter 7: Mainnet Deployment
 + Chapter 8: Maintenance & Upgradibility
-+ Chapter 9: Build Projects (Dapps)
++ Chapter 9: Build Projects (DApps)
 + Chapter 10: Contribute to the Gnoland Ecosystem 
 
 >__Note:__ Each chapter from every module can have one or more articles depending on the complexity of the topics and concepts of a chapter. This curriculum . Also if you have any questions, suggestions, or want to contribute then please open an issue or reach out at: cyphersyntax@yahoo.com
