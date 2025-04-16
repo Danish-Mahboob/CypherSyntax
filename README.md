@@ -58,11 +58,11 @@ __MODULE 4: GNOLAND COMPONENTS__    (8 weeks)
 + Chapter 10: GovDao
 
 __MODULE 5: ONCHAIN DEVELOPMENT__    (20 weeks)
-+ Chapter 1: Local Development Setup
-+ Chapter 2: Writing a Realm
-+ Chapter 3: Testing a Realm
-+ Chapter 4: Deploying a Realm
-+ Chapter 5: Building Projects
++ Chapter 1: Development Environment Setup
++ Chapter 2: 
++ Chapter 3: 
++ Chapter 4:
++ Chapter 5: 
 + Chapter 6:
 + Chapter 7:
 + Chapter 8:
