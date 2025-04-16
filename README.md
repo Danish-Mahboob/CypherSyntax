@@ -62,8 +62,8 @@ __MODULE 5: ONCHAIN DEVELOPMENT__    (20 weeks)
 + Chapter 2: Design Realm Architecture
 + Chapter 3: Develop Realm
 + Chapter 4: Unit & Integration Tests
-+ Chapter 5: Deploy on Testnet
-+ Chapter 6: Security Audits
++ Chapter 5: Testnet Deployment
++ Chapter 6: Security Audit
 + Chapter 7: 
 + Chapter 8:
 + Chapter 9:
