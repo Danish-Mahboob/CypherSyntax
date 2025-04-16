@@ -69,7 +69,7 @@ __MODULE 5: ONCHAIN DEVELOPMENT__    (20 weeks)
 + Chapter 9:
 + Chapter 10:
 
->__Note:__ Each chapter from every module can have one or more articles depending on the complexity of the topics and concepts of a chapter and this curriculum. Also if you have any questions, suggestions, or want to contribute then please open an issue or reach out at: cyphersyntax@yahoo.com
+>__Note:__ Each chapter from every module can have one or more articles depending on the complexity of the topics and concepts of a chapter. This curriculum . Also if you have any questions, suggestions, or want to contribute then please open an issue or reach out at: cyphersyntax@yahoo.com
 
 
 # Connect
