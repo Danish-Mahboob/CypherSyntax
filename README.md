@@ -1,8 +1,8 @@
 ![Alt Image](https://github.com/Danish-Mahboob/CypherSyntax/blob/59c7984cfa85a5f215d67bdd50527b515f7880ed/Banner.jpg)
 # Explication
-CypherSyntax is a community-driven developer resource hub being built by learners, for learners interested in mastering the blockchain paradigm—especially the Gnoland blockchain. It is designed to provide comprehensive technical educational content through multiple well-structured series of detailed articles, covering everything from understanding programming fundamentals to building complex decentralized applications. Each article will be crafted in an authentic way to provide a self-paced learning experience in a beginner-friendly manner.
+CypherSyntax is a community-driven developer resource hub being built by learners, for learners interested in mastering the blockchain paradigm—especially the Gnoland platform. It is designed to provide comprehensive technical educational content through multiple well-structured series of detailed articles, covering everything from understanding programming fundamentals to building complex decentralized applications. Each article will be crafted in an authentic way to provide a self-paced learning experience in a beginner-friendly manner.
 
-Building on this foundation, the ultimate goal of this project is to craft a robust developer community around the Gnoland Blockchain. Given that Gnoland is still in its testnet phase and lacks dedicated developers, CypherSyntax aims to bridge that gap by building an audience of potential developers and allowing them to interact with each other. This approach will enable them to learn about the next-generation of smart contracts platform in a collaborative environment and contribute to the Gnoland Ecosystem to build a truly censorship-resistant internet.
+Building on this foundation, the ultimate goal of this project is to craft a robust developer community around the Gnoland Blockchain. Given that Gnoland is still in its testnet phase and lacks dedicated developers, CypherSyntax aims to bridge that gap by building an audience of potential developers and allowing them to interact with each other. This approach will enable them to learn about the next-generation of smart contracts platform in a collaborative environment and contribute to the Gnoland ecosystem by helping build a truly censorship-resistant internet.
 
 
 
@@ -18,7 +18,7 @@ __MODULE 1: PROGRAMMING FUNDAMENTALS__    (8 weeks)
 + Chapter 6: Algorithms
 + Chapter 7: Version Control
 + Chapter 8: Modular Programming
-+ Chapter 9: Object Oriented Programming
++ Chapter 9: Object-Oriented Programming
 + Chapter 10: Database Management
 
 __MODULE 2: BLOCKCHAIN CONCEPTS__    (8 weeks)
@@ -65,7 +65,7 @@ __MODULE 5: ON-CHAIN DEVELOPMENT__    (20 weeks)
 + Chapter 5: Testnet Deployment
 + Chapter 6: Security Audits
 + Chapter 7: Mainnet Deployment
-+ Chapter 8: Maintenance & Upgradibility
++ Chapter 8: Maintenance & Upgradability
 + Chapter 9: Build Projects (DApps)
 + Chapter 10: Contribute to the Gnoland Ecosystem 
 
@@ -75,5 +75,5 @@ __MODULE 5: ON-CHAIN DEVELOPMENT__    (20 weeks)
 # Connect
 + __[Blog](https://medium.com/@cyphersyntax)__ (Medium)
 
-+ __[Community](https://https://t.me/cyphersyntax)__ (Telegram)
++ __[Community](https://t.me/cyphersyntax)__ (Telegram)
 
