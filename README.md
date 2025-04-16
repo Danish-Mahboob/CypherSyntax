@@ -2,7 +2,7 @@
 # Explication
 CypherSyntax is a community-driven developer resource hub being built by learners, for learners interested in mastering the blockchain paradigm—especially the Gnoland Blockchain. It is primarily designed to provide comprehensive technical educational content through multiple well-structured series of detailed articles, covering everything from understanding programming fundamentals to building complex decentralized applications. Each article will be crafted in an authentic way to provide a self-paced learning experience in a beginner-friendly manner.
 
-Building on this foundation, the ultimate goal of this project is to build a robust developer community around the Gnoland Blockchain. Given that Gnoland is still in its testnet phase and lacks dedicated developers, CypherSyntax aims to bridge that gap by building an audience of potential developers and allowing them to interact with each other. This approach will enable them to learn about the next-generation of smart contracts platform in a collaborative environment and contribute to the Gnoland Ecosystem to build a truly censorship-resistant internet.
+Building on this foundation, the ultimate goal of this project is to craft a robust developer community around the Gnoland Blockchain. Given that Gnoland is still in its testnet phase and lacks dedicated developers, CypherSyntax aims to bridge that gap by building an audience of potential developers and allowing them to interact with each other. This approach will enable them to learn about the next-generation of smart contracts platform in a collaborative environment and contribute to the Gnoland Ecosystem to build a truly censorship-resistant internet.
 
 
 
