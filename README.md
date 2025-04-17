@@ -69,7 +69,7 @@ __MODULE 5: ON-CHAIN DEVELOPMENT__    (20 weeks)
 + Chapter 9: Build Projects (DApps)
 + Chapter 10: Contribute to the Gnoland Ecosystem 
 
->__Note:__ Each chapter from every module can have one or more articles depending on the complexity of a chapter. Also if you have any questions, suggestions, or would like to contribute then kindly open an issue or reach out at: cyphersyntax@yahoo.com
+>__Note:__ Each chapter from every module can have one or more articles depending on the complexity of a chapter. Also, if you have any questions, suggestions, or would like to contribute then kindly open an issue or reach out at: cyphersyntax@yahoo.com
 
 
 # Connect
