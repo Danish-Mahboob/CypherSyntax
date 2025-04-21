@@ -9,43 +9,7 @@ Building on this foundation, the ultimate goal of this project is to foster a ro
 # Blueprint
 Here's a brief overview of the curriculum we will be following to build the CypherSyntax developer resource hub:-
 
-__MODULE 1: PROGRAMMING FUNDAMENTALS__    (8 weeks)
-+ Chapter 1: Computational Thinking
-+ Chapter 2: HTML 
-+ Chapter 3: CSS
-+ Chapter 4: JavaScript
-+ Chapter 5: Data Structures
-+ Chapter 6: Algorithms
-+ Chapter 7: Version Control
-+ Chapter 8: Modular Programming
-+ Chapter 9: Object-Oriented Programming
-+ Chapter 10: Database Management
-
-__MODULE 2: BLOCKCHAIN CONCEPTS__    (8 weeks)
-+ Chapter 1: Nodes
-+ Chapter 2: Distributed Ledger
-+ Chapter 3: Cryptography
-+ Chapter 4: Consensus Mechanism
-+ Chapter 5: Peer-to-Peer Network
-+ Chapter 6: Blocks and Transactions
-+ Chapter 7: Smart Contracts
-+ Chapter 8: Virtual Machine
-+ Chapter 9: Token Standards
-+ Chapter 10: Decentralized Applications
-
-__MODULE 3: GOLANG__    (8 weeks)
-+ Chapter 1: Packages
-+ Chapter 2: Modules
-+ Chapter 3: Variables & Constants
-+ Chapter 4: Functions
-+ Chapter 5: Data Types
-+ Chapter 6: Control Flow
-+ Chapter 7: Concurrency 
-+ Chapter 8: Interfaces
-+ Chapter 9: Error Handling
-+ Chapter 10: Testing & Benchmarking
-
-__MODULE 4: GNOLAND COMPONENTS__    (8 weeks)
+__MODULE 1: GNOLAND COMPONENTS__    (8 weeks)
 + Chapter 1: Proof of Contribution (PoC)
 + Chapter 2: Gnolang
 + Chapter 3: GnoVM
@@ -57,7 +21,7 @@ __MODULE 4: GNOLAND COMPONENTS__    (8 weeks)
 + Chapter 9: Gno Studio
 + Chapter 10: GovDao
 
-__MODULE 5: ON-CHAIN DEVELOPMENT__    (20 weeks)
+__MODULE 2: ON-CHAIN DEVELOPMENT__    (20 weeks)
 + Chapter 1: Development Environment Setup
 + Chapter 2: Design Realm Architecture
 + Chapter 3: Write Gno Code
