@@ -10,28 +10,28 @@ Building on this foundation, the ultimate goal of this project is to foster a ro
 Here's a brief overview of the curriculum we will be following to build the CypherSyntax developer resource hub:-
 
 __MODULE 1: GNOLAND COMPONENTS__    (8 weeks)
-+ Chapter 1: Proof of Contribution (PoC)
-+ Chapter 2: Gnolang
-+ Chapter 3: GnoVM
-+ Chapter 4: Tendermint 2
-+ Chapter 5: IBC 2
-+ Chapter 6: Realms 
-+ Chapter 7: Packages
-+ Chapter 8: Gnoweb
-+ Chapter 9: Gno Studio
-+ Chapter 10: GovDao
++ Lesson 1: Proof of Contribution (PoC)
++ Lesson 2: Gnolang
++ Lesson 3: GnoVM
++ Lesson 4: Tendermint 2
++ Lesson 5: IBC 2
++ Lesson 6: Realms 
++ Lesson 7: Packages
++ Lesson 8: Gnoweb
++ Lesson 9: Gno Studio
++ Lesson 10: GovDao
 
 __MODULE 2: ON-CHAIN DEVELOPMENT__    (20 weeks)
-+ Chapter 1: Development Environment Setup
-+ Chapter 2: Design Realm Architecture
-+ Chapter 3: Write Gno Code
-+ Chapter 4: Unit & Integration Tests
-+ Chapter 5: Testnet Deployment
-+ Chapter 6: Security Audits
-+ Chapter 7: Mainnet Deployment
-+ Chapter 8: Maintenance & Upgradability
-+ Chapter 9: Build Projects (DApps)
-+ Chapter 10: Contribute to Gnoland
++ Lesson 1: Development Environment Setup
++ Lesson 2: Design Realm Architecture
++ Lesson 3: Write Gno Code
++ Lesson 4: Unit & Integration Tests
++ Lesson 5: Testnet Deployment
++ Lesson 6: Security Audits
++ Lesson 7: Mainnet Deployment
++ Lesson 8: Maintenance & Upgradability
++ Lesson 9: Build Projects (DApps)
++ Lesson 10: Contribute to Gnoland
 
 >__Note:__ Each chapter from every module can have one or more articles depending on the complexity of a chapter. Also, if you have any questions, suggestions, or would like to contribute then kindly open an issue or reach out at: cyphersyntax@yahoo.com
 
