@@ -11,21 +11,21 @@ Here's a brief overview of the curriculum we will be following to build the Cyph
 
 __MODULE 1: GNOLAND COMPONENTS__    (16 weeks)
 + Lesson 1: Proof of Contribution
-+ Lesson 2: Gnolang
-+ Lesson 3: GnoVM
-+ Lesson 4: Tendermint 2
-+ Lesson 5: IBC 2
++ Lesson 2: Tendermint 2
++ Lesson 3: IBC 2
++ Lesson 4: Gnolang
++ Lesson 5: GnoVM
 + Lesson 6: Realms 
-+ Lesson 7: GnoScan
-+ Lesson 8: Gnoweb
++ Lesson 7: Packages
++ Lesson 8: Gnoland Playground
 + Lesson 9: Gno Studio
-+ Lesson 10: GovDao
-+ Lesson 11: Gno Playground
++ Lesson 10: Gnoweb
++ Lesson 11: GnoScan
 + Lesson 12: User Registry
 + Lesson 13: Tokenomics
 + Lesson 14: Gnokey
 + Lesson 15: Faucet Hub
-+ Lesson 16: Packages
++ Lesson 16: GovDao
 
 __MODULE 2: ON-CHAIN DEVELOPMENT__    (20 weeks)
 
