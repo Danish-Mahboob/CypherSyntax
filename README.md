@@ -22,6 +22,8 @@ __MODULE 1: GNOLAND COMPONENTS__    (12 weeks)
 + Lesson 10: GovDao
 
 __MODULE 2: ON-CHAIN DEVELOPMENT__    (20 weeks)
+
+Goal:
 + Lesson 1: Development Environment Setup
 + Lesson 2: Design Realm Architecture
 + Lesson 3: Write Gno Code
