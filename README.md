@@ -24,6 +24,7 @@ __MODULE 1: GNOLAND COMPONENTS__    (12 weeks)
 + Lesson 12: User Registry
 + Lesson 13: Tokenomics
 + Lesson 14: Adena Wallet
++ Lesson 15: Faucet Hub
 
 __MODULE 2: ON-CHAIN DEVELOPMENT__    (20 weeks)
 
