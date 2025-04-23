@@ -16,7 +16,7 @@ __MODULE 1: GNOLAND COMPONENTS__    (12 weeks)
 + Lesson 4: Tendermint 2
 + Lesson 5: IBC 2
 + Lesson 6: Realms 
-+ Lesson 7: Packages
++ Lesson 7: 
 + Lesson 8: Gnoweb
 + Lesson 9: Gno Studio
 + Lesson 10: GovDao
