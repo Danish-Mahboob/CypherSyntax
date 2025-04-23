@@ -17,7 +17,7 @@ __MODULE 1: GNOLAND COMPONENTS__    (16 weeks)
 + Lesson 5: GnoVM
 + Lesson 6: Realms 
 + Lesson 7: Packages
-+ Lesson 8: Gnoland Playground
++ Lesson 8: Gno Playground
 + Lesson 9: Gno Studio
 + Lesson 10: Gnoweb
 + Lesson 11: GnoScan
