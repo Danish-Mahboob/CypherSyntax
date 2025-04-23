@@ -27,7 +27,7 @@ __MODULE 1: GNOLAND COMPONENTS__    (16 weeks)
 + Lesson 15: Faucet Hub
 + Lesson 16: GovDao
 
-__MODULE 2: 
+__MODULE 2: GNOLANG PROGRAMMING__ 
 
 __MODULE 3: ON-CHAIN DEVELOPMENT__    (20 weeks)
 
