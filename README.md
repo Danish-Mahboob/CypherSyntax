@@ -10,16 +10,20 @@ Building on this foundation, the ultimate goal of this project is to foster a ro
 Here's a brief overview of the curriculum we will be following to build the CypherSyntax developer resource hub:-
 
 __MODULE 1: GNOLAND COMPONENTS__    (12 weeks)
-+ Lesson 1: Proof of Contribution (PoC)
-+ Lesson 2: 
++ Lesson 1: Proof of Contribution
++ Lesson 2: Gnolang
 + Lesson 3: GnoVM
 + Lesson 4: Tendermint 2
 + Lesson 5: IBC 2
 + Lesson 6: Realms 
-+ Lesson 7: 
++ Lesson 7: GnoScan
 + Lesson 8: Gnoweb
 + Lesson 9: Gno Studio
 + Lesson 10: GovDao
++ Lesson 11: Gno Playground
++ Lesson 12: User Registry
++ Lesson 13: Tokenomics
++ Lesson 14: Adena Wallet
 
 __MODULE 2: ON-CHAIN DEVELOPMENT__    (20 weeks)
 
