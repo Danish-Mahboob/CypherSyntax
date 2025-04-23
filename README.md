@@ -27,7 +27,9 @@ __MODULE 1: GNOLAND COMPONENTS__    (16 weeks)
 + Lesson 15: Faucet Hub
 + Lesson 16: GovDao
 
-__MODULE 2: ON-CHAIN DEVELOPMENT__    (20 weeks)
+__MODULE 2: 
+
+__MODULE 3: ON-CHAIN DEVELOPMENT__    (20 weeks)
 
 + Lesson 1: Development Environment Setup
 + Lesson 2: Design Realm Architecture
