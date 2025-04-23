@@ -11,7 +11,7 @@ Here's a brief overview of the curriculum we will be following to build the Cyph
 
 __MODULE 1: GNOLAND COMPONENTS__    (12 weeks)
 + Lesson 1: Proof of Contribution (PoC)
-+ Lesson 2: Gnolang
++ Lesson 2: 
 + Lesson 3: GnoVM
 + Lesson 4: Tendermint 2
 + Lesson 5: IBC 2
