@@ -23,7 +23,7 @@ __MODULE 1: GNOLAND COMPONENTS__    (16 weeks)
 + Lesson 11: GnoScan
 + Lesson 12: User Registry
 + Lesson 13: Gnokey
-+ Lesson 14: GNOT
++ Lesson 14: GNOT Token
 + Lesson 15: Faucet Hub
 + Lesson 16: GovDao
 
