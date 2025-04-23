@@ -25,6 +25,7 @@ __MODULE 1: GNOLAND COMPONENTS__    (12 weeks)
 + Lesson 13: Tokenomics
 + Lesson 14: Gnokey
 + Lesson 15: Faucet Hub
++ Lesson 16: Packages
 
 __MODULE 2: ON-CHAIN DEVELOPMENT__    (20 weeks)
 
