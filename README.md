@@ -18,11 +18,11 @@ __MODULE 1: GNOLAND COMPONENTS__    (16 weeks)
 + Packages:
 + Gno Playground:
 + Gno Studio:
-+ Gnoweb:
++ GnoWeb:
 + GnoScan:
 + User Registry:
-+ Gnokey:
-
++ GnoKey:
++ GnoDev:
 + GNOT:
 + Faucet Hub:
 + GovDao:
