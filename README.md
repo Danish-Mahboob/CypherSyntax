@@ -11,6 +11,8 @@ Here's a brief overview of the curriculum we will be following to build the Cyph
 
 __MODULE 1: GNOLAND COMPONENTS__    (16 weeks)
 
+__Goal:__
+
 + Proof of Contribution:
 + Tendermint 2:
 + IBC 2:
@@ -30,6 +32,8 @@ __MODULE 1: GNOLAND COMPONENTS__    (16 weeks)
 
 
 __MODULE 2: GNOLANG PROGRAMMING__    (24 weeks)
+
+__Goal:__
 
 +
 +
