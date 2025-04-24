@@ -31,7 +31,7 @@ __Goal:__
 + GovDao:
 
 
-__MODULE 2: GNOLANG PROGRAMMING__  (24 WEEKS)__
+__MODULE 2: GNOLANG PROGRAMMING  (24 WEEKS)__
 
 __Goal:__
 
