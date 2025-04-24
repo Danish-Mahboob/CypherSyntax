@@ -27,9 +27,8 @@ __MODULE 1: GNOLAND COMPONENTS__    (16 weeks)
 + Lesson 15: Faucet Hub
 + Lesson 16: GovDao
 
-__MODULE 2:__ (weeks)
 
-__MODULE 3: GNOLANG PROGRAMMING__    (weeks)
+__MODULE 3: GNOLANG PROGRAMMING__    (24 weeks)
 
 >__Note:__ Each chapter from every module can have one or more articles depending on the complexity of a chapter. Also, if you have any questions, suggestions, or would like to contribute then kindly open an issue or reach out at: cyphersyntax@yahoo.com
 
