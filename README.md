@@ -10,6 +10,7 @@ Building on this foundation, the ultimate goal of this project is to foster a ro
 Here's a brief overview of the curriculum we will be following to build the CypherSyntax developer resource hub:-
 
 __MODULE 1: GNOLAND COMPONENTS__    (16 weeks)
+
 + Proof of Contribution:
 + Tendermint 2:
 + IBC 2:
@@ -28,7 +29,7 @@ __MODULE 1: GNOLAND COMPONENTS__    (16 weeks)
 + GovDao:
 
 
-__MODULE 3: GNOLANG PROGRAMMING__    (24 weeks)
+__MODULE 2: GNOLANG PROGRAMMING__    (24 weeks)
 
 >__Note:__ Each chapter from every module can have one or more articles depending on the complexity of a chapter. Also, if you have any questions, suggestions, or would like to contribute then kindly open an issue or reach out at: cyphersyntax@yahoo.com
 
