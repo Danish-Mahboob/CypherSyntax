@@ -35,8 +35,8 @@ __MODULE 2: GNOLANG PROGRAMMING  (24 WEEKS)__
 
 __Goal:__
 
-+
-+
++ Introduction to Gnolang:
++ 
 +
 +
 +
