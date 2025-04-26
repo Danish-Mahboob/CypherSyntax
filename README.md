@@ -52,14 +52,14 @@ __MODULE 2: GNOLANG PROGRAMMING  (24 WEEKS)__
 + Event Emission & Logging:
 + Unit Testing:
 + Debugging:
-+ Deploying Realms
-+ Token Standard Implementation
-+ Oracle Patters
-+ Cryptographic Operations
-+ Concurrency Patterns
-+ Gas Optimization Techniques
-+ 
-+
++ Deploying Realms:
++ Token Standard Implementation:
++ Oracle Patters:
++ Cross Chain Communication:
++ Cryptographic Operations:
++ Concurrency Patterns:
++ Gas Optimization Techniques:
+
 
 
 
