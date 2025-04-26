@@ -56,6 +56,9 @@ __MODULE 2: GNOLANG PROGRAMMING  (24 WEEKS)__
 + Gas Optimization Techniques
 + 
 +
++
++
++
 
 
 >__Note:__ Each chapter from every module can have one or more articles depending on the complexity of a chapter. Also, if you have any questions, suggestions, or would like to contribute then kindly open an issue or reach out at: cyphersyntax@yahoo.com
