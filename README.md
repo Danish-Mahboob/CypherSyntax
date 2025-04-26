@@ -37,12 +37,13 @@ __Goal:__
 
 + Introduction to Gnolang:
 + Gnolang vs Golang:
-+
-+
-+
-+
-+
-+
++ Syntax & Data Types:
++ Control Structures:
++ Functions & Scoping:
++ Structs & Custom Types:
++ Interfaces & Polymorphism:
++ Packages & Imports:
++ 
 +
 +
 +
