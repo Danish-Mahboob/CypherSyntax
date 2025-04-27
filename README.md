@@ -44,7 +44,6 @@ __MODULE 2: GNOLANG PROGRAMMING  (24 WEEKS)__
 + Interfaces & Polymorphism:
 + Packages & Imports:
 + Error Handling:
-+ Blockchain Interaction:
 + Realm Structure:
 + State Management:
 + Event Emission & Logging:
