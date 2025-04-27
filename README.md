@@ -41,10 +41,8 @@ __MODULE 2: GNOLANG PROGRAMMING  (24 WEEKS)__
 + Control Structures:
 + Functions & Methods:
 + Structs & Custom Types:
-+ Interfaces:
-+ Polymorphism:
-+ Packages:
-+ Imports:
++ Interfaces & Polymorphism:
++ Packages & Imports:
 + Blockchain Interaction:
 + Realm Structure:
 + State Management:
