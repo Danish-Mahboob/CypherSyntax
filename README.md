@@ -13,22 +13,22 @@ __MODULE 1: GNOLAND COMPONENTS   (16 WEEKS)__
 
 
 
-__+ Proof of Contribution:__
-__+ Tendermint 2:__
-__+ IBC 2:__
-__+ GnoVM:__
-__+ Realms:__
-__+ Packages:__
-__+ Gno Playground:__
-__+ Gno Studio:__
-__+ GnoWeb:__
-__+ GnoScan:__
-__+ User Registry:__
-__+ GnoKey:__
-__+ GnoDev:__
-__+ GNOT:__
-__+ Faucet Hub:__
-__+ GovDao:__
++ __Proof of Contribution:__
++ __Tendermint 2:__
++ __IBC 2:__
++ __GnoVM:__
++ __Realms:__
++ __Packages:__
++ __Gno Playground:__
++ __Gno Studio:__
++ __GnoWeb:__
++ __GnoScan:__
++ __User Registry:__
++ __GnoKey:__
++ __GnoDev:__
++ __GNOT:__
++ __Faucet Hub:__
++ __GovDao:__
 
 
 __MODULE 2: GNOLANG PROGRAMMING  (24 WEEKS)__
