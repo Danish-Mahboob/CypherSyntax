@@ -37,10 +37,9 @@ __MODULE 2: GNOLANG PROGRAMMING  (24 WEEKS)__
 
 + Introduction to Gnolang:
 + Gnolang vs Golang:
-+ Basic Syntax:
-+ Data Types:
++ Syntax & Data Types:
 + Control Structures:
-+ Functions & Scoping:
++ Functions & Methods:
 + Structs & Custom Types:
 + Interfaces:
 + Polymorphism:
