@@ -47,11 +47,11 @@ __MODULE 2: GNOLANG PROGRAMMING  (24 WEEKS)__
 + __Error Handling:__
 + __Concurrency in Gno__:
 + __Standard Gno Libraries:__
-+ Realm Structure:
-+ State Management:
-+ Event Emission & Logging:
-+ Unit Testing:
-+ Debugging:
++ __Realm Structure:__
++ __State Management:__
++ __Realm Development:__
++ __Events & Messaging:__
++ __Testing & Debugging:__
 + Deploying Realms:
 + Token Standard Implementation:
 + Oracle Patters:
