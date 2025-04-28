@@ -62,7 +62,7 @@ __MODULE 2: GNOLANG PROGRAMMING  (28 WEEKS)__
 + __Building DApps with Gno:__
 
 
->__Note:__ Each chapter from every module can have one or more articles depending on the complexity of a chapter. Also, if you have any questions, suggestions, or would like to contribute then kindly open an issue or reach out at: cyphersyntax@yahoo.com
+>__Note:__ If you have any questions, suggestions, or would like to contribute then kindly open an issue or reach out at: cyphersyntax@yahoo.com
 
 
 # Connect
