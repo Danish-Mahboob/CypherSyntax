@@ -52,7 +52,7 @@ __MODULE 2: GNOLANG PROGRAMMING  (24 WEEKS)__
 + __Deploying Realms:__
 + __Advanced Function Patterns:__
 + __Reflection & Metaprogramming:__
-+ __Working with JSON & Other Data Formats:__
++ __Working with Data Formats:__
 + __Advanced Concurrency Patterns:__
 + __Token Standard Implementation:__
 + __Performance & Security Optimization:__
