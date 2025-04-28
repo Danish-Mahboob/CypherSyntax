@@ -30,7 +30,7 @@ __MODULE 1: GNOLAND COMPONENTS   (16 WEEKS)__
 + __GovDao:__
 
 
-__MODULE 2: GNOLANG PROGRAMMING  (24 WEEKS)__
+__MODULE 2: GNOLANG PROGRAMMING  (28 WEEKS)__
 
 + __Introduction to Gnolang:__
 + __Gnolang vs. Golang:__
