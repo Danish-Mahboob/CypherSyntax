@@ -34,7 +34,8 @@ __MODULE 2: GNOLANG PROGRAMMING  (28 WEEKS)__
 
 + __Introduction to Gnolang:__
 + __Gnolang vs. Golang:__
-+ __Basic Syntax & Data Types:__
++ __Basic Syntax & Data Types:__ Variable declarations, basic data types (integers, floats, strings, booleans), type conversions, and constants.
+
 + __Control Structures:__
 + __Functions & Methods:__
 + __Composite Data Types:__
