@@ -43,6 +43,7 @@ __MODULE 2: GNOLANG PROGRAMMING  (24 WEEKS)__
 + __Packages & Imports:__
 + __Error Handling:__
 + __Concurrency in Gno__:
++ __Memory Management & Garbage Collection:__ 
 + __Standard Gno Libraries:__
 + __Realm Structure:__
 + __State Management:__
