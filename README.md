@@ -9,9 +9,8 @@ Building on this foundation, the ultimate goal of this project is to foster a ro
 # Blueprint
 Here's a brief overview of the curriculum we will be following to build the CypherSyntax developer resource hub:-
 
+
 __MODULE 1: GNOLAND COMPONENTS   (16 WEEKS)__
-
-
 
 + __Proof of Contribution:__
 + __Tendermint 2:__
@@ -32,8 +31,6 @@ __MODULE 1: GNOLAND COMPONENTS   (16 WEEKS)__
 
 
 __MODULE 2: GNOLANG PROGRAMMING  (24 WEEKS)__
-
-
 
 + __Introduction to Gnolang:__
 + __Gnolang vs. Golang:__
@@ -62,12 +59,6 @@ __MODULE 2: GNOLANG PROGRAMMING  (24 WEEKS)__
 + __Interacting with External Systems:__
 + __Advanced Realm Patterns:__
 + __Building DApps with Gno:__
-+ Oracle Patters:
-+ Cryptographic Operations:
-+ Gas Optimization Techniques:
-
-
-
 
 
 >__Note:__ Each chapter from every module can have one or more articles depending on the complexity of a chapter. Also, if you have any questions, suggestions, or would like to contribute then kindly open an issue or reach out at: cyphersyntax@yahoo.com
