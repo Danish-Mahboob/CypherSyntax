@@ -34,9 +34,9 @@ __MODULE 2: GNOLANG PROGRAMMING  (28 WEEKS)__
 
 + __Introduction to Gnolang:__
 + __Gnolang vs. Golang:__
-+ __Basic Syntax & Data Types:__ Variable declarations, basic data types (integers, floats, strings, booleans), type conversions, and constants.
++ __Basic Syntax & Data Types:__ variable declarations, basic data types (integers, floats, strings, booleans), type conversions, and constants.
 
-+ __Control Structures:__
++ __Control Structures:__ conditional statements (if, else if, else), switch statements, and loops (for, while, do-while) in Gno, with emphasis on Gno-specific control flow patterns.
 + __Functions & Methods:__
 + __Composite Data Types:__
 + __Strings & Runes:__
