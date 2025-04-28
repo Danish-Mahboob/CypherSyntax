@@ -45,6 +45,7 @@ __MODULE 2: GNOLANG PROGRAMMING  (24 WEEKS)__
 + __Interfaces & Polymorphism:__
 + __Packages & Imports:__
 + __Error Handling:__
++ __Concurrency in Gno__:
 + Realm Structure:
 + State Management:
 + Event Emission & Logging:
