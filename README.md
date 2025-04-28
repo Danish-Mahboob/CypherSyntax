@@ -52,7 +52,7 @@ __MODULE 2: GNOLANG PROGRAMMING  (24 WEEKS)__
 + __Realm Development:__
 + __Events & Messaging:__
 + __Testing & Debugging:__
-+ Deploying Realms:
++ __Deploying Realms:__
 + Token Standard Implementation:
 + Oracle Patters:
 + Cross Chain Communication:
