@@ -55,7 +55,7 @@ __MODULE 2: GNOLANG PROGRAMMING  (24 WEEKS)__
 + __Working with JSON & Other Data Formats:__
 + __Advanced Concurrency Patterns:__
 + __Token Standard Implementation:__
-+ __Performance Optimization:__
++ __Performance & Security Optimization:__
 + __Interacting with External Systems:__
 + __Advanced Realm Patterns:__
 + __Building DApps with Gno:__
