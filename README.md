@@ -53,11 +53,17 @@ __MODULE 2: GNOLANG PROGRAMMING  (24 WEEKS)__
 + __Events & Messaging:__
 + __Testing & Debugging:__
 + __Deploying Realms:__
-+ Token Standard Implementation:
++ __Advanced Function Patterns:__
++ __Reflection & Metaprogramming:__
++ __Working with JSON & Other Data Formats:__
++ __Advanced Concurrency Patterns:__
++ __Token Standard Implementation:__
++ __Performance Optimization:__
++ __Interacting with External Systems:__
++ __Advanced Realm Patterns:__
++ __Building DApps with Gno:__
 + Oracle Patters:
-+ Cross Chain Communication:
 + Cryptographic Operations:
-+ Concurrency Patterns:
 + Gas Optimization Techniques:
 
 
