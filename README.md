@@ -40,10 +40,11 @@ __MODULE 2: GNOLANG PROGRAMMING  (24 WEEKS)__
 + __Basic Syntax & Data Types:__
 + __Control Structures:__
 + __Functions & Methods:__
-+ Structs & Custom Types:
-+ Interfaces & Polymorphism:
-+ Packages & Imports:
-+ Error Handling:
++ __Composite Data Types:__
++ __Strings & Runes:__
++ __Interfaces & Polymorphism:__
++ __Packages & Imports:__
++ __Error Handling:__
 + Realm Structure:
 + State Management:
 + Event Emission & Logging:
