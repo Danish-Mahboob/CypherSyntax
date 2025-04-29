@@ -32,38 +32,38 @@ __OBJECTIVE:__
 + GovDao
 
 
-__MODULE 2: GNOLANG PROGRAMMING  (28 WEEKS)__
+__MODULE 2: GNOLANG PROGRAMMING__  (28 weeks)
 
 __OBJECTIVE:__
 
-+ __Introduction to Gnolang:__
-+ __Gnolang vs. Golang:__
-+ __Basic Syntax & Data Types:__
-+ __Control Structures:__
-+ __Functions & Methods:__
-+ __Composite Data Types:__
-+ __Strings & Runes:__
-+ __Interfaces & Polymorphism:__
-+ __Packages & Imports:__
-+ __Error Handling:__
-+ __Concurrency in Gno__:
-+ __Memory Management:__ 
-+ __Standard Gno Libraries:__
-+ __Realm Structure:__
-+ __State Management:__
-+ __Realm Development:__
-+ __Events & Messaging:__
-+ __Testing & Debugging:__
-+ __Deploying Realms:__
-+ __Advanced Function Patterns:__
-+ __Reflection & Metaprogramming:__
-+ __Working with Data Formats:__
-+ __Advanced Concurrency Patterns:__
-+ __Token Standard Implementation:__
-+ __Performance & Security Optimization:__
-+ __Interacting with External Systems:__
-+ __Advanced Realm Patterns:__
-+ __Building DApps with Gno:__
++ Introduction to Gnolang
++ Gnolang vs. Golang
++ Basic Syntax & Data Types
++ Control Structures
++ Functions & Methods
++ Composite Data Types
++ Strings & Runes
++ Interfaces & Polymorphism
++ Packages & Imports
++ Error Handling
++ Concurrency in Gno
++ Memory Management
++ Standard Gno Libraries
++ Realm Structure
++ State Management
++ Realm Development
++ Events & Messaging
++ Testing & Debugging
++ Deploying Realms
++ Advanced Function Patterns
++ Reflection & Metaprogramming
++ Working with Data Formats
++ Advanced Concurrency Patterns
++ Token Standard Implementation
++ Performance & Security Optimization
++ Interacting with External Systems
++ Advanced Realm Patterns
++ Building DApps with Gno
 
 
 >__Note:__ If you have any questions, suggestions, or would like to contribute then kindly open an issue or reach out at: cyphersyntax@yahoo.com
