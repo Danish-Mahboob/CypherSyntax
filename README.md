@@ -10,7 +10,7 @@ Building on this foundation, the ultimate goal of this project is to foster a ro
 Here's a brief overview of the curriculum we will be following to build the CypherSyntax developer resource hub:-
 
 
-__MODULE 1: GNOLAND COMPONENTS__   (16 WEEKS)
+__MODULE 1: GNOLAND COMPONENTS__   (16 weeks)
 
 __OBJECTIVE:__
 
