@@ -1,6 +1,7 @@
 ![Alt Image](https://github.com/Danish-Mahboob/CypherSyntax/blob/59c7984cfa85a5f215d67bdd50527b515f7880ed/Banner.jpg)
 
 # Introduction
+
 CypherSyntax is an educational project being built by learners, for learners interested in mastering the Gno programming language. It is designed to provide comprehensive technical educational content through well-structured series of detailed artcles. Given that Gnoland is still in its testnet phase and lacks dedicated developers, CypherSyntax aims to bridge that gap by nurturing an audience of potential Gno developers via educational content and allowing them to interact with each other. This approach will enable them to learn about the next-generation of smart contracts in a collaborative environment and contribute to the Gnoland ecosystem by helping build a truly censorship-resistant platform.
 
 
