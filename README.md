@@ -2,7 +2,7 @@
 
 # Overview
 
-CypherSyntax is a structured learning resource focused on helping developers and enthusiasts master the Gno programming language to craft secure smart contracts on the Gnoland blockchain. It aims to provide comprehensive educational content through a series of detailed articles, covering everything from understanding basic syntax to building complex DApps in a beginner-friendly manner.
+CypherSyntax is a structured learning resource focused on helping developers and enthusiasts master the Gno programming language to craft secure smart contracts on the Gnoland blockchain. It aims to provide comprehensive educational content through a series of detailed articles, covering everything from understanding basic syntax to building decentralized applications in a beginner-friendly manner.
 
 Here's the step-by-step curriculum we will follow to build the most robust learning resource for Gnolang:-
 
