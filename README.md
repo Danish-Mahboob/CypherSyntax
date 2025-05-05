@@ -8,23 +8,23 @@ Here's the step-by-step curriculum we will follow to build the most robust learn
 
 __1. Introduction to Gnolang:__
 
-__2. 
+__2. Gnolang vs Golang:__
 
-__3.
+__3. Syntax & Data Types:__
 
-__4.
+__4. Control Structures:__
 
-__5.
+__5. Functions & Methods:__
 
-__6.
+__6. Composite Data Types:__
 
-__7.
+__7. Strings & Runes:__
 
-__8.
+__8. Interfaces & Polymorphism:__
 
-__9.
+__9. Packages & Imports:__
 
-__10.
+__10. Error Handling:__
 
 __11.
 
