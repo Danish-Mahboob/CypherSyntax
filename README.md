@@ -8,59 +8,83 @@ Here's the step-by-step curriculum we will follow to build the most robust learn
 
 __1. Introduction to Gnolang:__
 
+__2. 
 
-__MODULE 1: GNOLAND COMPONENTS__   (16 weeks)
+__3.
 
+__4.
 
-+ Proof of Contribution
-+ Tendermint 2
-+ IBC 2
-+ GnoVM
-+ Realms
-+ Packages
-+ Gno Playground
-+ Gno Studio
-+ GnoWeb
-+ GnoScan
-+ User Registry
-+ GnoKey
-+ GnoDev
-+ GNOT
-+ Faucet Hub
-+ GovDao
+__5.
 
+__6.
 
-__MODULE 2: GNOLANG PROGRAMMING__  (28 weeks)
+__7.
 
+__8.
 
-+ Introduction to Gnolang
-+ Gnolang vs. Golang
-+ Basic Syntax & Data Types
-+ Control Structures
-+ Functions & Methods
-+ Composite Data Types
-+ Strings & Runes
-+ Interfaces & Polymorphism
-+ Packages & Imports
-+ Error Handling
-+ Concurrency in Gno
-+ Memory Management
-+ Standard Gno Libraries
-+ Realm Structure
-+ State Management
-+ Realm Development
-+ Events & Messaging
-+ Testing & Debugging
-+ Deploying Realms
-+ Advanced Function Patterns
-+ Reflection & Metaprogramming
-+ Working with Data Formats
-+ Advanced Concurrency Patterns
-+ Token Standard Implementation
-+ Performance & Security Optimization
-+ Interacting with External Systems
-+ Advanced Realm Patterns
-+ Building DApps with Gno
+__9.
+
+__10.
+
+__11.
+
+__12.
+
+__13.
+
+__14.
+
+__15.
+
+__16.
+
+__17.
+
+__18.
+
+__19.
+
+__20.
+
+__21.
+
+__22.
+
+__23.
+
+__24.
+
+__25.
+
+__26.
+
+__27.
+
+__28.
+
+__29.
+
+__30.
+
+__31.
+
+__32.
+
+__33.
+
+__34.
+
+__35.
+
+__36.
+
+__37.
+
+__38.
+
+__39.
+
+__40.
 
 
 >__Note:__ If you have any questions, suggestions, or would like to contribute then kindly open an issue or reach out at: cyphersyntax@yahoo.com
