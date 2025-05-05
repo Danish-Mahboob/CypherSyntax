@@ -6,6 +6,8 @@ CypherSyntax is a structured learning resource focused on helping developers and
 
 Here's the step-by-step curriculum we will follow to build the most robust learning resource for Gnolang:-
 
+__1. Introduction to Gnolang:__
+
 
 __MODULE 1: GNOLAND COMPONENTS__   (16 weeks)
 
