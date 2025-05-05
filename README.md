@@ -10,7 +10,7 @@ __1. Introduction to Gnolang:__
 
 __2. Gnolang vs Golang:__
 
-__3. Syntax & Data Types:__
+__3. Basic Syntax & Data Types:__
 
 __4. Control Structures:__
 
