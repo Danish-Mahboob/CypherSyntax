@@ -8,7 +8,7 @@ CypherSyntax is a structured learning resource hub designed to help developers a
 
 It aims to provide comprehensive educational content through a series of detailed articles, covering everything from understanding basic syntax to building full-fledged decentralized applications.
 
-Here's the step-by-step curriculum we will follow to build the most robust learning resource for Gnolang:-
+Here's the step-by-step curriculum we will follow to build the most robust learning resource hub for Gnolang:-
 
 __1. Introduction to Gnolang:__
 
