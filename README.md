@@ -5,7 +5,7 @@
 CypherSyntax is an educational project which aims to nurture potential Gnolang developers by offering structured learning material through detailed articles, providing self paced learning experience in a beginner-friendly manner.
 
 
-Here's the step-by-step curriculum we will follow to build the most robust learning hub for Gnolang:-
+Here's the step-by-step curriculum we will follow to build the most robust learning hub:-
 
 __1. Introduction to Gnolang:__
 
