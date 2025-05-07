@@ -2,7 +2,7 @@
 
 # Overview
 
-CypherSyntax is a structured learning resource hub designed to help developers and enthusiasts master the Gno programming language from scratch, empowering them to craft secure smart contracts on the Gnoland blockchain. However given that Gnoland is still in its testnet phase and lacks a dedicated developer base, CypherSyntax aims to bridge this gap as well by providing learning material in the form of detailed articles so that more people can discover and learn Gnolang.
+CypherSyntax is a structured learning resource hub designed to help developers and enthusiasts master the Gno programming language from scratch, empowering them to craft secure smart contracts on the Gnoland blockchain. However, given that Gnoland is still in its testnet phase and lacks a dedicated developer base, CypherSyntax aims to bridge this gap as well by providing learning material in the form of detailed articles instead of sophisticated guides so that more people can discover and learn Gnolang in an open and collaborative environment.
 
 
 Here's the step-by-step curriculum we will follow to build the most robust learning resource hub for Gnolang:-
