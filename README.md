@@ -9,7 +9,7 @@ Here's the step-by-step curriculum we'll follow to create the best learning hub 
 
 __1. Introduction to Gnolang__
 
-__2. Gnolang vs Golang:__
+__2. Gnolang vs Golang__
 
 __3. Basic Syntax & Data Types:__
 
