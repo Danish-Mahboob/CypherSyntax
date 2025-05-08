@@ -7,7 +7,7 @@ CypherSyntax is an educational project that aims to nurture potential Gnolang de
 
 Here's the step-by-step curriculum we'll follow to create the best learning hub for Gnolang:
 
-__1. Introduction to Gnolang:__
+__1. Introduction to Gnolang__
 
 __2. Gnolang vs Golang:__
 
