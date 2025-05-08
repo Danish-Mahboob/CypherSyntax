@@ -11,21 +11,7 @@ __1. Introduction to Gnolang__
 
 __2. Gnolang vs Golang__
 
-__3. Basic Syntax & Data Types:__
-
-__4. Control Structures:__
-
-__5. Functions & Methods:__
-
-__6. Composite Data Types:__
-
-__7. Strings & Runes:__
-
-__8. Interfaces & Polymorphism:__
-
-__9. Packages & Imports:__
-
-__10. Error Handling:__
+__3. 
 
 __11.
 
