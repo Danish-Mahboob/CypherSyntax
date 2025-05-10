@@ -35,17 +35,17 @@ __13. Maps in Gno__
 
 __14. Pointers in Gno__
 
-__15. Packages and Imports__
+__15. Strings and Runes__
 
-__16.
+__16. Packages and Imports__
 
-__17.
+__17. Concurrency in Gno__
 
-__18.
+__18. Gno Rountines and Channels__
 
-__19.
+__19. Standard Gno libraries__
 
-__20.
+__20. Memory Management__
 
 __21.
 
