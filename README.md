@@ -17,25 +17,25 @@ __4. Gno Development Setup__
 
 __5. Variables in Gno__
 
-__6. 
+__6. Conditionals in Gno__
 
-__7.
+__7. Functions in Gno__
 
-__8.
+__8. Structs in Gno__
 
-__9.
+__9. Interfaces and Polymorphism__
 
-__10.
+__10. Error Handling in Gno__
 
-__11.
+__11. Loops in Gno__
 
-__12.
+__12. Slices in Gno__
 
-__13.
+__13. Maps in Gno__
 
-__14.
+__14. Pointers in Gno__
 
-__15.
+__15. Packages and Imports__
 
 __16.
 
