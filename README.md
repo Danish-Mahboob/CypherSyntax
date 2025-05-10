@@ -11,9 +11,9 @@ __1. Introduction to Gnolang__
 
 __2. Gnolang vs Golang__
 
-__3. Gnolang Development Setup__
+__3. Gno Development Setup__
 
-__4.
+__4. Basic Syntax
 
 __5.
 
