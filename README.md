@@ -55,7 +55,7 @@ __23. Events and Messaging__
 
 __24. Testing and Debugging__
 
-__25. Deploying Realms
+__25. Deploying Realms__
 
 __26. Functions Patterns__
 
