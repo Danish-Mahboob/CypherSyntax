@@ -47,65 +47,25 @@ __19. Standard Gno libraries__
 
 __20. Memory Management__
 
-__21.
+__21. Building Realms with Gno__
 
-__22.
+__22. State Management__
 
-__23.
+__23. Events and Messaging__
 
-__24.
+__24. Testing and Debugging__
 
-__25.
+__25. Deploying Realms
 
-__26.
+__26. Functions Patterns__
 
-__27.
+__27. Reflection and Metaprogramming__
 
-__28.
+__28. Working with Data Formats__
 
-__29.
+__29. Concurrency Patterns__
 
-__30.
-
-__31.
-
-__32.
-
-__33.
-
-__34.
-
-__35.
-
-__36.
-
-__37.
-
-__38.
-
-__39.
-
-__40.
-
-__41.
-
-__42.
-
-__43.
-
-__44.
-
-__45.
-
-__46.
-
-__47.
-
-__48.
-
-__49.
-
-__50.
+__30. Performance and Security Optimization__
 
 
 >__Note:__ If you have any questions, suggestions, or would like to contribute then kindly open an issue or reach out at: cyphersyntax@yahoo.com
