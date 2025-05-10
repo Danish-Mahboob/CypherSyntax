@@ -15,9 +15,9 @@ __3. Gnolang Fundamentals__
 
 __4. Gno Development Setup__
 
-__5.
+__5. Variables in Gno__
 
-__6.
+__6. 
 
 __7.
 
