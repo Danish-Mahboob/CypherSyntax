@@ -9,9 +9,9 @@ Here's the step-by-step curriculum we'll follow to create the best learning hub 
 
 __1. Introduction to Gnolang__
 
-__2. Gnolang vs Golang__
+__2. Gnolang Fundamentals__
 
-__3. Gnolang Fundamentals__
+__3. Gnolang vs Golang__
 
 __4. Gno Development Setup__
 
