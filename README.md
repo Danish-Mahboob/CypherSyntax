@@ -13,7 +13,7 @@ __2. Gnolang vs Golang__
 
 __3. Gno Development Setup__
 
-__4. Basic Syntax
+__4. Basic Syntax__
 
 __5.
 
