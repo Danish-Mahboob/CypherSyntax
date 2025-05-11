@@ -60,7 +60,7 @@ __26. Functions Patterns__
 
 __27. Reflection and Metaprogramming__
 
-__28. Gas Fees and Optimization__
+__28. Gas Fees and Optimization Techniques__
 
 __29. Performance and Security Optimization__
 
