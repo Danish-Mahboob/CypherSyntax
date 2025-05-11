@@ -16,29 +16,29 @@ __4. Gno Development Setup__
 
 __5. Variables in Gno__
 
-__6. Conditionals in Gno__
+__6. Data Types in Gno__
 
-__7. Functions in Gno__
+__7. Conditionals in Gno__
 
-__8. Structs in Gno__
+__8. Functions in Gno__
 
-__9. Interfaces in Gno__
+__9. Structs in Gno__
 
-__10. Error Handling in Gno__
+__10. Interfaces in Gno__
 
-__11. Loops in Gno__
+__11. Error Handling in Gno__
 
-__12. Slices in Gno__
+__12. Loops in Gno__
 
-__13. Maps in Gno__
+__13. Slices in Gno__
 
-__14. Pointers in Gno__
+__14. Maps in Gno__
 
-__15. Strings and Runes__
+__15. Pointers in Gno__
 
-__16. Packages and Imports__
+__16. Strings and Runes__
 
-__17. __
+__17. Packages and Imports__
 
 __18. __
 
