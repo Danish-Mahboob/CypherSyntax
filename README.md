@@ -46,7 +46,7 @@ __19. Standard Gno libraries__
 
 __20. Memory Management__
 
-__21. Building Realms with Gno__
+__21. Developing Realms with Gno__
 
 __22. State Management__
 
