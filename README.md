@@ -64,7 +64,7 @@ __28. Gas Fees and Optimization Techniques__
 
 __29. Performance and Security Optimization__
 
-__30. Building Project with Gno__
+__30. Building Projects with Gno__
 
 >__Note:__ If you have any questions, suggestions, or would like to contribute then kindly open an issue or reach out at: cyphersyntax@yahoo.com
 
