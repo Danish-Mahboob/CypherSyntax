@@ -38,7 +38,7 @@ __15. Strings and Runes__
 
 __16. Packages and Imports__
 
-__17. Concurrency in Gno__
+__17. __
 
 __18. __
 
@@ -62,7 +62,7 @@ __27. Reflection and Metaprogramming__
 
 __28. Working with Data Formats__
 
-__29. Concurrency Patterns__
+__29. __
 
 __30. Performance and Security Optimization__
 
