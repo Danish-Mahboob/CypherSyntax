@@ -22,7 +22,7 @@ __7. Functions in Gno__
 
 __8. Structs in Gno__
 
-__9. Interfaces and Polymorphism__
+__9. Interfaces in Gno__
 
 __10. Error Handling in Gno__
 
