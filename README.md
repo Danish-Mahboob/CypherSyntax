@@ -4,7 +4,6 @@
 
 CypherSyntax is an educational project that aims to nurture potential Gnolang developers by offering structured learning material in the form of detailed articles, providing a self-paced learning experience in a beginner-friendly manner.
 
-
 Here's the step-by-step curriculum we'll follow to create the best learning hub for Gnolang:
 
 __1. Introduction to Gnolang__
@@ -67,9 +66,7 @@ __29. Concurrency Patterns__
 
 __30. Performance and Security Optimization__
 
-
 >__Note:__ If you have any questions, suggestions, or would like to contribute then kindly open an issue or reach out at: cyphersyntax@yahoo.com
-
 
 # Connect
 + __[Blog](https://medium.com/@cyphersyntax)__ (Medium)
