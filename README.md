@@ -40,7 +40,7 @@ __16. Packages and Imports__
 
 __17. Concurrency in Gno__
 
-__18. Gno Rountines and Channels__
+__18. __
 
 __19. Standard Gno libraries__
 
