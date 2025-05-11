@@ -60,7 +60,7 @@ __26. Functions Patterns__
 
 __27. Reflection and Metaprogramming__
 
-__28. Working with Data Formats__
+__28. __
 
 __29. __
 
