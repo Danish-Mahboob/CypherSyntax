@@ -40,7 +40,7 @@ __16. Strings and Runes__
 
 __17. Packages and Imports__
 
-__18. __
+__18. Control Flow Patterns__
 
 __19. Standard Gno libraries__
 
@@ -62,9 +62,7 @@ __27. Reflection and Metaprogramming__
 
 __28. __
 
-__29. __
-
-__30. Performance and Security Optimization__
+__29. Performance and Security Optimization__
 
 >__Note:__ If you have any questions, suggestions, or would like to contribute then kindly open an issue or reach out at: cyphersyntax@yahoo.com
 
