@@ -13,7 +13,7 @@ __2. Gno Fundamentals:__ Explore how Gnolang aims to revolutionize smart contrac
 
 __3. Gno vs Go:__ An in-depth comparison between Gnolang and Golang to understand key differences between both languages.
 
-__4. Gno Development Setup:__ Learn how to setup development environment and using all the developer tools in order to start writing Gno code.
+__4. Gno Development Setup:__ Learn how to setup development environment and using all the necessary developer tools in order to start writing Gno code.
 
 __5. Variables in Gno__
 
