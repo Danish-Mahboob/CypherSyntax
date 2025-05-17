@@ -11,7 +11,7 @@ Understanding the philosophy, mission, and architecture of the Gnoland blockchai
 
 __2. Gno Fundamentals__
 
-__3. Gno vs Go:__ An in-depth comparison between Gnolang and Golang to understand key differences.
+__3. Gno vs Go:__ An in-depth comparison between Gnolang and Golang to understand key differences between both languages.
 
 __4. Gno Development Setup__
 
