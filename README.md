@@ -59,7 +59,7 @@ __25. Deploying Realms__
 
 __26. Functions Patterns__
 
-__27. Reflection and Metaprogramming__
+__27. __
 
 __28. Gas Fees and Optimization Techniques__
 
