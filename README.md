@@ -58,7 +58,7 @@ __25. Deploying Realms__
 
 __26. Functions Patterns__
 
-__27. __
+__27. Gnoweb Exploration__
 
 __28. Gas Fees and Optimization Techniques__
 
