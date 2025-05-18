@@ -10,7 +10,7 @@ __1. Introduction to Gnoland:__ Understanding the philosophy, mission, and archi
 
 __2. Gnolang Overview:__ Exploring how Gnolang aims to revolutionize smart contracts development by making everything open-source.
 
-__3. Gnolang vs Golang:__ An in-depth comparison between Gno and Go to understand the key differences between both languages.
+__3. Gnolang vs Golang:__ Understanding the key differences between Gno and Go by an in-depth comparison between the two languages.
 
 __4. Gno Development Setup:__ Learning how to setup development environment and using all the necessary developer tools, including Gnodev and Gnokey to start writing Gno code.
 
