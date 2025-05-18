@@ -40,7 +40,7 @@ __16. Events and Messaging:__
 
 __17. Testing and Debugging:__
 
-__18. Deploying Realm:__
+__18. Realm Deployment:__
 
 __19. Gnoweb Exploration:__
 
