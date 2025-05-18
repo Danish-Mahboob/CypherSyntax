@@ -8,9 +8,9 @@ Here's the step-by-step curriculum we'll follow to create the best Gnolang learn
 
 __1. Introduction to Gnoland__
 
-__2. Gno Fundamentals__
+__2. Gnolang Overview__
 
-__3. Gno vs Go__
+__3. Gnolang vs Golang__
 
 __4. Gno Development Setup__
 
