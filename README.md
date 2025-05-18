@@ -8,11 +8,11 @@ Here's the step-by-step curriculum we'll follow to create the best Gnolang learn
 
 __1. Introduction to Gnoland:__ Understanding the philosophy, mission, and architecture of the Gnoland blockchain.
 
-__2. Gnolang Overview:__ Exploring how Gnolang aims to revolutionize smart contracts development
+__2. Gnolang Overview:__ Exploring how Gnolang aims to revolutionize smart contracts development by making everything open-source.
 
-__3. Gnolang vs Golang:__  
+__3. Gnolang vs Golang:__ An in-depth comparison between Gno and Go to understand the key differences between both languages.
 
-__4. Gno Development Setup:__
+__4. Gno Development Setup:__ Learning how to setup development environment and using all necessary developer tools to start writing Gno code.
 
 __5. Data Types:__
 
