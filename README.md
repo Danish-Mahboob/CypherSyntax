@@ -24,7 +24,7 @@ __8. Functions and Methods:__ Understanding how to define and use functions in G
 
 __9. Data Structures:__ Learning how to define, use, and manipulate the core data structures in Gno, including arrays, slices, structs, and maps.
 
-__10. Interfaces and Polymorphism:__
+__10. Interfaces and Polymorphism:__ Understanding how to define and use interfaces in Gno to specify sets of method signatures, as well as polymorphism.
 
 __11. Error Handling:__
 
