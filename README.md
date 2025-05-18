@@ -34,11 +34,11 @@ __13. Standard Gno libraries:__ Exploring the comprehensive collection of librar
 
 __14. Realm Development:__ Learning how to craft structured realms from scratch using Gnolang.
 
-__15. State Management:__
+__15. State Management:__ Understanding how to manage persistent and in-memory state in Gno realms.
 
-__16. Events and Messaging:__
+__16. Events and Messaging:__ Exploring how events and messaging enable realms in Gno to communicate and react to important changes or actions.
 
-__17. Testing and Debugging:__
+__17. Testing and Debugging:__ 
 
 __18. Realm Deployment:__
 
