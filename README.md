@@ -38,7 +38,7 @@ __15. State Management:__ Understanding how to manage persistent and in-memory s
 
 __16. Events and Messaging:__ Exploring how events and messaging enable realms in Gno to communicate and react to important changes or actions.
 
-__17. Testing and Debugging:__ 
+__17. Testing and Debugging:__ Learning how to ensure the reliability and correctness of your Gnolang code by writing and running tests using Gno’s built-in tools like Gno Test and Gno Debugger.
 
 __18. Realm Deployment:__
 
