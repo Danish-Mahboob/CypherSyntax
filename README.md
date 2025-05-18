@@ -14,9 +14,9 @@ __3. Gnolang vs Golang:__ Understanding the key differences between Gno and Go b
 
 __4. Gno Development Setup:__ Learning how to setup development environment and using all the necessary developer tools, including Gnodev and Gnokey to start writing Gno code.
 
-__5. Data Types:__
+__5. Data Types:__ Learning the fundamental data types in Gno, including integers, floats, strings, booleans, runes, and pointers.
 
-__6. Basic Syntax:__
+__6. Basic Syntax:__ Mastering the foundational building blocks of Gno program, including package declarations, import statements, variables, constants, statements, expressions, and comments.
 
 __7. Control Structures:__
 
