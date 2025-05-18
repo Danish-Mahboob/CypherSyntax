@@ -22,57 +22,33 @@ __7. Control Structures:__
 
 __8. Functions and Methods:__
 
-__5. Variables in Gno__
+__9. Data Structures:__
 
-__6. Data Types in Gno__
-
-__7. Conditionals in Gno__
-
-__8. Functions in Gno__
-
-__9. Structs in Gno__
-
-__10. Interfaces in Gno__
+__10. Interfaces and Polymorphism:__
 
 __11. Error Handling in Gno__
 
-__12. Loops in Gno__
+__12. Packages and Imports__
 
-__13. Slices in Gno__
+__13. Standard Gno libraries__
 
-__14. Maps in Gno__
+__14. Developing Realms with Gno__
 
-__15. Pointers in Gno__
+__15. State Management__
 
-__16. Strings and Runes__
+__16. Events and Messaging__
 
-__17. Packages and Imports__
+__17. Testing and Debugging__
 
-__18. Control Flow Patterns__
+__18. Deploying Realms__
 
-__19. Standard Gno libraries__
+__19. Gnoweb Exploration__
 
-__20. __
+__20. Gas Fees and Optimization Techniques__
 
-__21. Developing Realms with Gno__
+__21. Performance and Security Optimization__
 
-__22. State Management__
-
-__23. Events and Messaging__
-
-__24. Testing and Debugging__
-
-__25. Deploying Realms__
-
-__26. Functions Patterns__
-
-__27. Gnoweb Exploration__
-
-__28. Gas Fees and Optimization Techniques__
-
-__29. Performance and Security Optimization__
-
-__30. Building Projects with Gno__
+__22. Building Projects with Gno__
 
 >__Note:__ If you have any questions, suggestions, or would like to contribute then kindly open an issue or reach out at: cyphersyntax@yahoo.com
 
