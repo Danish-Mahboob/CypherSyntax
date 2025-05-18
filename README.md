@@ -18,9 +18,9 @@ __5. Data Types:__ Learning the fundamental data types in Gno, including integer
 
 __6. Basic Syntax:__ Mastering the basic building blocks of Gno program, including package declarations, import statements, variables, constants, operators, and comments.
 
-__7. Control Structures:__
+__7. Control Structures:__ Managing the flow of execution in Gno program through conditionals, statements, and loops.
 
-__8. Functions and Methods:__
+__8. Functions and Methods:__ Understanding how to define and use functions in Gno, as well as exploring methods-functions associated with specific types.
 
 __9. Data Structures:__
 
