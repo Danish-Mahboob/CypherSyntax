@@ -16,7 +16,7 @@ __4. Gno Development Setup:__ Learning how to setup development environment and 
 
 __5. Data Types:__ Learning the fundamental data types in Gno, including integers, floats, strings, booleans, runes, and pointers.
 
-__6. Basic Syntax:__ Mastering the foundational building blocks of Gno program, including package declarations, import statements, variables, constants, operators, and comments.
+__6. Basic Syntax:__ Mastering the basic building blocks of Gno program, including package declarations, import statements, variables, constants, operators, and comments.
 
 __7. Control Structures:__
 
