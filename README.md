@@ -44,7 +44,7 @@ __18. Control Flow Patterns__
 
 __19. Standard Gno libraries__
 
-__20. Memory Management__
+__20. __
 
 __21. Developing Realms with Gno__
 
