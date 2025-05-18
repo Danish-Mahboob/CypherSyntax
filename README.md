@@ -6,7 +6,7 @@ CypherSyntax is an educational project that aims to nurture potential Gnolang de
 
 Here's the step-by-step curriculum we'll follow to create the best Gnolang learning hub:–
 
-__1. Introduction to Gnoland:__ Understanding the philosophy, mission, and architecture of the Gnoland blockchain.
+__1. Introduction to Gnoland:__ Understanding the philosophy, mission, and architecture of the platform.
 
 __2. Gnolang Overview__
 
