@@ -54,7 +54,7 @@ __23. Upgradability and Governance__
 
 __24. Building Projects with Gno__
 
->__Note:__ Each chapter can have one or more articles depending on the complexity of chapters. Also, if you have any questions, suggestions, or would like to contribute then kindly open an issue or reach out at: cyphersyntax@yahoo.com
+>__Note:__ Each chapter can have one or more articles depending on the complexity of topics to be addressed in a particular chapter. Also, if you have any questions, suggestions, or would like to contribute then kindly open an issue or reach out at: cyphersyntax@yahoo.com
 
 # Connect
 + __[Blog](https://medium.com/@cyphersyntax)__ (Medium)
