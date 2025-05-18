@@ -26,7 +26,7 @@ __9. Data Structures:__ Learning how to define, use, and manipulate the core dat
 
 __10. Interfaces and Polymorphism:__ Understanding how to define and use interfaces in Gno to specify sets of method signatures, as well as polymorphism.
 
-__11. Error Handling:__
+__11. Error Handling:__ Exploring techniques such as explicit error checking, creating custom error types, wrapping errors, to handle errors in Gno program.
 
 __12. Packages and Imports:__
 
