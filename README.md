@@ -28,7 +28,7 @@ __10. Interfaces and Polymorphism:__ Understanding how to define and use interfa
 
 __11. Error Handling:__ Exploring techniques such as explicit error checking, creating custom error types, wrapping errors, to handle errors in Gno program.
 
-__12. Packages and Imports:__
+__12. Packages and Imports:__ Understanding how to organize Gno code into packages of related source files and how to use the import statement to include external packages in Gno programs.
 
 __13. Standard Gno libraries:__
 
