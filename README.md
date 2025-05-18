@@ -40,7 +40,7 @@ __16. Events and Messaging:__ Exploring how events and messaging enable realms i
 
 __17. Testing and Debugging:__ Learning how to ensure the reliability and correctness of your Gnolang code by writing and running tests using Gno’s built-in tools like Gno Test and Gno Debugger.
 
-__18. Realm Deployment:__ Learning how to deploy your Realm to the Gnoland blockchain using two main approaches: the Gno Playground and Gnokey CLI tool.
+__18. Realm Deployment:__ Learning how to deploy Realm to the Gnoland blockchain using two main approaches: the Gno Playground and Gnokey CLI tool.
 
 __19. Gnoweb Exploration:__
 
