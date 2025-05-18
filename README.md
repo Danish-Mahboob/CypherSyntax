@@ -22,7 +22,7 @@ __7. Control Structures:__ Managing the flow of execution in Gno program through
 
 __8. Functions and Methods:__ Understanding how to define and use functions in Gno, as well as exploring methods-functions associated with specific types.
 
-__9. Data Structures:__
+__9. Data Structures:__ Learning how to define, use, and manipulate the core data structures in Gno, including arrays, slices, structs, and maps.
 
 __10. Interfaces and Polymorphism:__
 
