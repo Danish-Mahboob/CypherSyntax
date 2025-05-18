@@ -44,11 +44,13 @@ __18. Deploying Realms__
 
 __19. Gnoweb Exploration__
 
-__20. Gas Fees and Optimization Techniques__
+__20. Working with External Systems__
 
-__21. Performance and Security Optimization__
+__21. Gas Fees and Optimization Techniques__
 
-__22. Building Projects with Gno__
+__22. Performance and Security Optimization__
+
+__23. Building Projects with Gno__
 
 >__Note:__ If you have any questions, suggestions, or would like to contribute then kindly open an issue or reach out at: cyphersyntax@yahoo.com
 
