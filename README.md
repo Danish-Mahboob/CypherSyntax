@@ -30,7 +30,7 @@ __11. Error Handling:__ Exploring techniques such as explicit error checking, cr
 
 __12. Packages and Imports:__ Understanding how to organize Gno code into packages of related source files and how to use the import statement to include external packages in Gno programs.
 
-__13. Standard Gno libraries:__
+__13. Standard Gno libraries:__ Exploring the comprehensive collection of libraries bundled with Gno, to leverage these well-tested packages for building powerful Dapps.
 
 __14. Realms Development:__
 
