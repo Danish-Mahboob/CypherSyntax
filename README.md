@@ -32,7 +32,7 @@ __12. Packages and Imports:__ Understanding how to organize Gno code into packag
 
 __13. Standard Gno libraries:__ Exploring the comprehensive collection of libraries bundled with Gno, to leverage these well-tested packages for building powerful Dapps.
 
-__14. Realm Development:__
+__14. Realm Development:__ Learning how to craft structured realms from scratch using Gnolang.
 
 __15. State Management:__
 
