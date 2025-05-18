@@ -14,6 +14,14 @@ __3. Gnolang vs Golang__
 
 __4. Gno Development Setup__
 
+__5. Data Types:__
+
+__6. Basic Syntax:__
+
+__7. Control Structures:__
+
+__8. Functions and Methods:__
+
 __5. Variables in Gno__
 
 __6. Data Types in Gno__
