@@ -26,33 +26,33 @@ __9. Data Structures:__
 
 __10. Interfaces and Polymorphism:__
 
-__11. Error Handling in Gno__
+__11. Error Handling:__
 
-__12. Packages and Imports__
+__12. Packages and Imports:__
 
-__13. Standard Gno libraries__
+__13. Standard Gno libraries:__
 
-__14. Developing Realms with Gno__
+__14. Realms Development:__
 
-__15. State Management__
+__15. State Management:__
 
-__16. Events and Messaging__
+__16. Events and Messaging:__
 
-__17. Testing and Debugging__
+__17. Testing and Debugging:__
 
-__18. Deploying Realms__
+__18. Deploying Realms:__
 
-__19. Gnoweb Exploration__
+__19. Gnoweb Exploration:__
 
-__20. Working with External Systems__
+__20. Working with External Systems:__
 
-__21. Gas Fees and Optimization Techniques__
+__21. Gas Fees and Optimization Techniques:__
 
-__22. Performance and Security Optimization__
+__22. Performance and Security Optimization:__
 
-__23. Upgradability and Governance__
+__23. Upgradability and Governance:__
 
-__24. Building Projects with Gno__
+__24. Building Projects with Gno:__
 
 >__Note:__ If you have any questions, suggestions, or would like to contribute then kindly open an issue or reach out at: cyphersyntax@yahoo.com
 
